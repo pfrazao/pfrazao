@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pedro!
 - 👀 I’m interested in Software Engineering, Data Science, and a lot more!
-- 🌱 I’m currently learning at Udacity in my free time!
+- 🌱 I’m currently learning at Udacity!
 - 📫 How to reach me: pedro.frazao@tecnico.ulisboa.pt
 
 <!---
