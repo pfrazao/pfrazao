@@ -4,7 +4,7 @@
 - 📫 How to reach me: pedro.frazao@tecnico.ulisboa.pt
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfrazao&layout=compact)](https://github.com/pfrazao/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pfrazao&layout=compact)
 
 
 
